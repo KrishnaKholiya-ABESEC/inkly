@@ -1,4 +1,4 @@
-# Inkly
+# Inkly✍🏻
 
 A modern and responsive blog platform built with React, where users can explore, read, create and manage blog posts.
 
